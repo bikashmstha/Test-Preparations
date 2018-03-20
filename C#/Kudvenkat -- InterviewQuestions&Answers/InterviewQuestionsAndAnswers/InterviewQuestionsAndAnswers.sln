@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1 CanUStoreDifferentTypesInAnArray", "CanUStoreDifferentTypesInAnArray\1 CanUStoreDifferentTypesInAnArray.csproj", "{B98797EA-473A-4B72-AD4C-BED746B6BEE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 JaggedArray", "JaggedArray\2 JaggedArray.csproj", "{3336148A-33B9-4526-AAB7-7B2987D71B62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhyAndWhenToUseAbstractClass", "WhyAndWhenToUseAbstractClass\WhyAndWhenToUseAbstractClass.csproj", "{A4C1DB1F-FDF3-43C2-906F-D188B8353CA3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Others", "Others", "{A64093EC-D90A-4273-8C32-2ED00F4094C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolymorphismMethodHidingAndOverriding", "PolymorphismMethodHidingAndOverriding\PolymorphismMethodHidingAndOverriding.csproj", "{1D29430B-8094-4433-A5AB-743F23586FE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B98797EA-473A-4B72-AD4C-BED746B6BEE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98797EA-473A-4B72-AD4C-BED746B6BEE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98797EA-473A-4B72-AD4C-BED746B6BEE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98797EA-473A-4B72-AD4C-BED746B6BEE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3336148A-33B9-4526-AAB7-7B2987D71B62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3336148A-33B9-4526-AAB7-7B2987D71B62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3336148A-33B9-4526-AAB7-7B2987D71B62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3336148A-33B9-4526-AAB7-7B2987D71B62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C1DB1F-FDF3-43C2-906F-D188B8353CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C1DB1F-FDF3-43C2-906F-D188B8353CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C1DB1F-FDF3-43C2-906F-D188B8353CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C1DB1F-FDF3-43C2-906F-D188B8353CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D29430B-8094-4433-A5AB-743F23586FE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D29430B-8094-4433-A5AB-743F23586FE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D29430B-8094-4433-A5AB-743F23586FE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D29430B-8094-4433-A5AB-743F23586FE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1D29430B-8094-4433-A5AB-743F23586FE1} = {A64093EC-D90A-4273-8C32-2ED00F4094C2}
+	EndGlobalSection
+EndGlobal

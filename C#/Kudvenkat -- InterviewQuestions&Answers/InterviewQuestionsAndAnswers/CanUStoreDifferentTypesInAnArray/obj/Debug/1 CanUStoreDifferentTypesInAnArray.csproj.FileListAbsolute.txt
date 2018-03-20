@@ -1,0 +1,5 @@
+F:\Test Preparations\C#\Kudvenkat -- InterviewQuestions&Answers\InterviewQuestionsAndAnswers\CanUStoreDifferentTypesInAnArray\bin\Debug\CanUStoreDifferentTypesInAnArray.exe.config
+F:\Test Preparations\C#\Kudvenkat -- InterviewQuestions&Answers\InterviewQuestionsAndAnswers\CanUStoreDifferentTypesInAnArray\bin\Debug\CanUStoreDifferentTypesInAnArray.exe
+F:\Test Preparations\C#\Kudvenkat -- InterviewQuestions&Answers\InterviewQuestionsAndAnswers\CanUStoreDifferentTypesInAnArray\bin\Debug\CanUStoreDifferentTypesInAnArray.pdb
+F:\Test Preparations\C#\Kudvenkat -- InterviewQuestions&Answers\InterviewQuestionsAndAnswers\CanUStoreDifferentTypesInAnArray\obj\Debug\CanUStoreDifferentTypesInAnArray.exe
+F:\Test Preparations\C#\Kudvenkat -- InterviewQuestions&Answers\InterviewQuestionsAndAnswers\CanUStoreDifferentTypesInAnArray\obj\Debug\CanUStoreDifferentTypesInAnArray.pdb
